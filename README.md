@@ -7,7 +7,7 @@ A lightweight, real-time scam detection and triage assistant built with a **4-ag
 
 ## Why This Project?
 
-Cyber scams—especially **"digital arrest"** calls impersonating Police, CBI, or RBI officials—rely on fear and urgency to force victims into transferring money before they can verify the claim. While helplines (**1930**) and bank advisories exist, victims often reach them *after* the money is gone.
+Cyber scams-especially **"digital arrest"** calls impersonating Police, CBI, or RBI officials—rely on fear and urgency to force victims into transferring money before they can verify the claim. While helplines (**1930**) and bank advisories exist, victims often reach them *after* the money is gone.
 
 This project acts as a **calm, evidence-backed second opinion** in real time:
 - **Swarm (Orchestration):** Decides *who acts* by splitting the task across four small, testable specialist agents.
