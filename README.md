@@ -75,6 +75,6 @@ This app gives a **calm, evidence-backed second opinion** in seconds:
 
 ---
 
-**Author:** Unknow4384735
+**Author:** Unknown4384735
 
 **Program:** M.Sc. Computer Science (Big Data Analytics), Central University of Rajasthan (CURAJ)
